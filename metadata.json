@@ -1,0 +1,8 @@
+{
+  "name": "Trường TH\u0026THCS Nguyễn Đình Anh - Cổng Quản Lý và Điều Hành",
+  "description": "Website quản lý và điều hành hoạt động trường liên cấp Tiểu học và THCS Nguyễn Đình Anh: Cổng thông tin công khai và Hệ thống điều hành nội bộ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
